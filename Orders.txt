@@ -1,0 +1,10 @@
+Royale with cheese|3.99
+Le Big Mac|4.99
+Milkshake|5.00
+McBola|2.99
+Pizza|3.87
+CheeseSticks|6.99
+Soup|4.00
+Cookie|2.00
+Brownie|2.00
+Fries|3.50
